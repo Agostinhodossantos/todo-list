@@ -57,6 +57,7 @@ body {
     text-align: center;
     display: inline-block;
     font-size: small;
+    outline: none;
 }
 
 .todo-wrapper .pretty-button:hover {
